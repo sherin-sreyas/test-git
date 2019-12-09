@@ -1,1 +1,1 @@
-git clone developer
+git clone Ok Dude
